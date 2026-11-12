@@ -15,15 +15,9 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
-
 As a music listener, I want to search for songs by their title or artist and compare their streams and popularity so that I can discover which songs and artists are most popular on Spotify.
 
 ## Dataset 
-
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
-
-Example: 
 
 Dataset: (https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024)
 - **Artist** (String) - stage name/name of the artist
@@ -32,8 +26,6 @@ Dataset: (https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify
 - **Popularity** (int) - ranking of 0-100 on how popular the song is
 
 ## UML Diagram 
-
-Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
 ![UML Diagram for my project](nameOfImageFileHere.png) 
 
