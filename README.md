@@ -1,2 +1,42 @@
-# data-for-social-good
-A music lover is looking to search up songs by title or artist to compare streams and popularity. To achieve this,  I inputted a data set from Kaggle with information about trending songs from 2024 to implement into my program. This program allows the user to input a title or artist, and the output being information about popularity and streams.
+# Unit 2 - Data for Social Good Project
+
+## Introduction
+
+Software engineers develop programs to work with data and provide information to a user. Each user has different needs based on the information they are looking for from data. Your goal is to create a data analysis program for your user that stores and analyzes data to provide the information they need.
+
+## Requirements
+
+Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, and algorithms to create your data analysis program:
+- **Write a class** – Write a class to represent your user or business and store and analyze their data with no-argument and parameterized constructors.
+- **Create at least two 1D arrays** – Create at least two 1D arrays to store the data that your user needs information about.
+- **Write a method** – Write a method that finds or manipulates the elements in a 1D array to provide the information your user needs.
+- **Implement a toString() method** – Write a toString() method that returns general information about the data (for example, number of values in the dataset).
+- **Document your code** – Use comments to explain the purpose of the methods and code segments and note any preconditions and postconditions.
+
+## User Story 
+
+Include your User Story you analyzed for your project here. Your User Story should have the following format: 
+
+As a music listener, I want to search for songs by their title or artist and compare their streams and popularity so that I can discover which songs and artists are most popular on Spotify.
+
+## Dataset 
+
+Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
+
+Example: 
+
+Dataset: (https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024)
+- **Artist** (String) - stage name/name of the artist
+- **Title** (String) - title of song 
+- **Streams** (int) - number of streams (in millions, no commas allowed)
+- **Popularity** (int) - ranking of 0-100 on how popular the song is
+
+## UML Diagram 
+
+Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
+
+![UML Diagram for my project](nameOfImageFileHere.png) 
+
+## Description 
+
+For our Unit 3 Project (Data for Social Good), my partner and I used our previous knowledge of 1D Arrays and different information we picked up over the past semester. For our user story, our "user": **As a music listener, I want to search for songs by their title or artist and compare their streams and popularity so that I can discover which songs and artists are most popular on Spotify.** First, we searched up a data set on Kaggle that would satisfy our user. Even though it's a few years old, we thought the artists were still incredibly modern, and many songs from the data set are ones most people still listen to today. It shows information like aritst, title, streams, popularity, and much more information that we chose not to include. Our project contains the classes: DataRunner, UserStory, artist title, popularity, and streams. Our UML Diagram showcases all the methods we used within our program, as well as the instance variables for each class established. We used multiple scanner methods so the user could input artist, title, etc and the program would print out information based on what the user needed. All in all, now our user can search up artists or titles and come back with information pertaining to them.
