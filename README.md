@@ -27,7 +27,7 @@ Dataset: (https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify
 
 ## UML Diagram 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![UML Diagram for my project](<img width="945" height="648" alt="Copy of (Unit 3) UML Diagram" src="https://github.com/user-attachments/assets/daf56ae1-276a-4ed4-901b-a5ae5642e35c" />) 
 
 ## Description 
 
